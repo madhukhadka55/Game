@@ -1,0 +1,74 @@
+#container{
+    height: 550px;
+    width: 60%;
+    background-color: aqua;
+    margin-left: 15%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+}
+.heading{
+    height: 70px;
+    width: 70%;
+    background-color:;
+    text-align: center;
+    font-size: 2em;
+    line-height: 5px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: normal;
+    margin-top: 10px;
+    margin-left: 15%;
+}
+.images{
+    height:200px ;
+    width: 100%;
+    background-color: ;
+    margin-top: 5%;
+    margin-left: 28%;
+}
+
+    .button{
+        height:30px;
+        width:100%;
+        display:flex;
+        flex-direction:row;
+        margin-top:20px;
+        
+}
+#truth{
+    height:30px;
+    width:160px;
+    background-color:green;
+    font-size:1em;
+    color:white;
+    margin-left:230px;}
+
+    #dare{
+        height:30px;
+        width:160px;
+        background-color:red;
+        font-size:1em;
+        color:white;
+        margin-left: 10px;
+    }
+
+    #box{
+    height:80px;
+    width:80%;
+    background-color:palegreen;
+    margin-top:20px;
+    margin-left:10%;
+    text-align:center;
+    font-size:1.5em;
+    color:white;
+    }
+    #clear{
+        height:40px;
+        width:90px;
+        border-radius:10px;
+        margin-left:350px;
+        margin-top:10px;
+        background-color: coral;
+        color:black;
+    }
